@@ -1,7 +1,7 @@
 [
 {
 		"title": "Recetas",
-		"date":"Sat Mar 28 2026 13:26:29 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sat Mar 28 2026 13:31:16 GMT+0000 (Coordinated Universal Time)",
 		"url":"/",
 		"content": "<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/referencias/albondigon-frio/\">Albondigón Frío</a>\n<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/referencias/brownie/\">Brownie</a>\n<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/referencias/caldo-de-verduras/\">Caldo de verduras</a>\n<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/referencias/gazpacho/\">Gazpacho</a>\n<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/referencias/lentejas-estofadas/\">Lentejas estofadas</a>\n<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/referencias/pote-gallego/\">Pote gallego</a>\n<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/referencias/salsa-romescu/\">Salsa romescu</a>\nfilters:\nand:\n- '!file.name.contains(&quot;Plantilla&quot;)'\n- file.folder == &quot;Referencias&quot;\nviews:\n- type: table\nname: Recetas\nfilters:\nor:\n- categorias.contains(&quot;Recetas&quot;)\n- categorias.contains(link(&quot;Categorías/Recetas&quot;))\norder:\n- dg-publish\n- file.name\n- autor\n- cocina\n- tipo\n- raciones\n- dificultad\n- tiempo (min)\n- url\ncolumnSize:\nfile.name: 142\n- type: list\nname: Vista\nfilters:\nand:\n- categorias.contains(link(&quot;Recetas&quot;))\n\nfilters:\nand:\n- '!file.name.contains(&quot;Plantilla&quot;)'\n- file.folder == &quot;Referencias&quot;\nviews:\n- type: table\nname: Recetas\nfilters:\nor:\n- categorias.contains(&quot;Recetas&quot;)\n- categorias.contains(link(&quot;Categorías/Recetas&quot;))\norder:\n- dg-publish\n- file.name\n- autor\n- cocina\n- tipo\n- raciones\n- dificultad\n- tiempo (min)\n- url\ncolumnSize:\nfile.name: 142\n- type: list\nname: Vista\nfilters:\nand:\n- categorias.contains(link(&quot;Recetas&quot;))",
 		"tags": [ "note","categorias","gardenEntry"]
@@ -9,7 +9,7 @@
 
 {
 		"title": "Albondigón Frío",
-		"date":"Sat Mar 28 2026 13:26:29 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sat Mar 28 2026 13:31:16 GMT+0000 (Coordinated Universal Time)",
 		"url":"/referencias/albondigon-frio/",
 		"content": "Ingredientes\n\n1300 gr de carne picada\n1 huevo\n1 sobre de crema de champiñón\n1 paquete de jamón en taquitos\npiñones, almendras, pasas o lo que se quiera\nvino\n\nInstrucciones\n\nMezclar todos los ingredientes\nFormar un &quot;albondigón&quot; y envolverlo en papel de plata\nMeterlo en el horno 40 min\nDejar que se enfríe\nMeterlo en la nevera con peso encima 24h",
 		"tags": [ "note"]
@@ -17,7 +17,7 @@
 
 {
 		"title": "Brownie",
-		"date":"Sat Mar 28 2026 13:26:29 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sat Mar 28 2026 13:31:16 GMT+0000 (Coordinated Universal Time)",
 		"url":"/referencias/brownie/",
 		"content": "Ingredientes\n\n120 gr Tableta de chocolate para fundir (brownie)\n80 gr Tableta de chocolate para fundir (salsa)\n220 gr mantequilla\n4 huevos\n220 gr azúcar\n70 gr harina\nNueces\nHelado de vainilla\n\nInstrucciones\nMasa\n\nEncendemos el horno a 180º\nEn una cacerola fuego lento fundimos:\n\nel chocolate\nla mantequilla\ny dejamos enfriar.\n\nEn un recipiente aparte mezclamos &quot;LA MASA&quot;:\n\nlos huevos\nla harina\nel azúcar\nmezclamos bien a mano o con batidora.\n\nPicamos las nueces y mezclamos con &quot;LA MASA&quot;\nAñadimos el chocolate a &quot;LA MASA&quot;\nUntamos un molde (con los bordes altos) de mantequilla\nVertemos &quot;LA MASA&quot;\nIntroducimos en el horno a 180º unos 40min\nSe servirá con dos bolas de helado y la salsa de chocolate caliente por encima del helado\n\nSalsa de chocolate\n\nFundir el resto de la tableta de chocolate\nMezclar con 5 cucharadas de leche\n\nTips\n\nPuedes decorar al final con un poco de nuez picada",
 		"tags": [ "note"]
@@ -25,7 +25,7 @@
 
 {
 		"title": "Caldo de verduras",
-		"date":"Sat Mar 28 2026 13:26:29 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sat Mar 28 2026 13:31:16 GMT+0000 (Coordinated Universal Time)",
 		"url":"/referencias/caldo-de-verduras/",
 		"content": "Ingredientes\n\n2 dientes de ajo\n1 puerro\n2 zanahorias\n1 nabo\n1 rama de apio grande o 2 más pequeñas\n100 ml vino blanco\naceite de oliva\nsal\n\nInstrucciones\n\nPela los dientes de ajo y pícalos muy finitos.\nPela el nabo.\nPela las zanahorias, córtalas por la mitad y después en rodajas.\nCórtalte las raíces al puerro, retírale la primera capa y separa la parte blanca de la parte verde. La parte blanca córtala por la mitad y después en rodajas, y la parte verde déjala tal cual.\nPela la cebolla, córtala por la mitad y pícala finita.\nLimpia muy bien la ramas de apio, retírale las hojas y córtala por la mitad.\nEn una olla (puede ser tradicional o rápida, más abajo verás los tiempos y modos de preparación con cada una) pon un poco de aceite de oliva a fuego medio y, cuando esté caliente, echa el ajo y mueve durante unos segundos para que se vaya dorando.\nAntes de que empiece a quemarse el ajo incorpora la zanahoria y la cebolla y cocínalas 5 minutos con un poco de sal.\nIncorpora el puerro, baja un poco el fuego y cocina durante 5 minutos más o hasta que veas que las verduras se están dorando un poco.\nSube el fuego para que esté fuerte y echa el vino blanco. Espera 2-3 minutos hasta que se evapore el alcohol.\nEcha a la olla el nabo y las ramas de apio junto con las ramitas de tomillo y romero y un poco de sal, y cubre con agua llenando la olla hasta 2/3 de su capacidad. Si vas a utilizar una olla rápida, seguro que lleva indicada una línea a partir de la cual no debería subir el agua, asegúrate de no sobrepasarla.\nSube el fuego para que esté fuerte y cuando hierva baja la temperatura un poco y durante unos 5 minutos ve espumando el caldo, es decir, retírale la espuma que va quedando arriba con una espumadera ya que son impurezas las verduras y así quedará bien limpio.\nAhora toca realizar la cocción según sea la olla:\n\nEn olla tradicional: baja el fuego para que esté suave de manera que siga borboteando pero no en exceso y con la olla tapada cocínalo todo junto 1 hora.\nEn olla rápida: mantén el fuego fuerte, ciérrala y a partir de que se vean las dos anillas rojas baja el fuego de manera que se mantenga la presión y deja que se cocine 12 minutos. Después simplemente espera a que se vaya la presión por completo de la olla (verás que el pitorrillo o válvula está completamente bajado de nuevo) y ya podrás abrirla.\n\nCuela el caldo. Si no quieres tirar las verduras siempre puedes triturarlas (retirando las ramas de tomillo y romero) con un poco de caldo para preparar una crema de verduras. Yo en ocasiones las trituro y, cuando voy a preparar sopa de fideos con el caldo, añado una cucharada sopera de las verduras trituradas por comensal para darle un poco de espesor al caldo, queda genial.\nPrueba el caldo por si tienes que rectificarlo de sal.\n\nTips\nEste caldo puedes tomarlo recién hecho o reposado de días anteriores ya que aguanta perfectamente 3-4 días en la nevera y también lo puedes congelar. Se puede tomar a cualquier temperatura y de cualquier forma, ya sea tal cual en una taza, con fideos a modo de sopa, con un poco de pan tostado o frito, con trocitos de verduras de las que se han utilizado para cocinarlo o incluso reservarlo para que sea el caldo de un buen arroz o un guiso espectacular.\nSaltear las verduras al principio marca la diferencia de sabor, haciéndolo muy sabroso y riquísimo, y junto al vino y las hierbas aromáticas se convierte en un caldo buenísimo y que rivaliza con cualquier otro elaborado con carnes o pescados. Es un caldo de auténtico… ¡escándalo!\nVariaciones\nPuedes añadirle o quitarle cualquier verdura, a tu gusto, e incluir setas o champiñones ya que resultan muy aromáticos para este tipo de preparaciones.\nConsejos\nTanto si lo preparas en olla tradicional como en olla rápida no te olvides de espumar el caldo esos primeros minutos para retirar las impurezas que van saliendo a la superficie.\nAl saltear las verduras debes evitar que se quemen pero si se pegan un poquito o cogen color dorado no pasa nada, de hecho aporta bastante sabor y cuando añadas el vino verás que todo eso se despega perfectamente de la olla y aportará un sabor muy potente al caldo resultante.",
 		"tags": [ "note"]
@@ -33,7 +33,7 @@
 
 {
 		"title": "Gazpacho",
-		"date":"Sat Mar 28 2026 13:26:29 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sat Mar 28 2026 13:31:16 GMT+0000 (Coordinated Universal Time)",
 		"url":"/referencias/gazpacho/",
 		"content": "Ingredientes\n\n1200 gr tomate\n180 gr pepino\n90 gr pimiento\n14 gr ajo\n55 gr aceite\n30 gr vinagre\n8 gr sal\n\nInstrucciones\nThermomix\n\nMezclar todo excepto el aceite a velocidad progresiva 3-5-10 hasta que sea un líquido sin grumos\nAñadir el aceite en la tapa con el vaso puesto para que vaya cayendo lentamente\n\nTips\n\nSi se quiere se pueden escaldar los tomates y pelar, pero con thermomix no hace falta\nIncorporar agua al gusto si queda muy fuerte",
 		"tags": [ "note"]
@@ -41,7 +41,7 @@
 
 {
 		"title": "Lentejas estofadas",
-		"date":"Sat Mar 28 2026 13:26:29 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sat Mar 28 2026 13:31:16 GMT+0000 (Coordinated Universal Time)",
 		"url":"/referencias/lentejas-estofadas/",
 		"content": "Ingredientes\n\n350 gr. lentejas pardinas (remojadas 8 horas, peso en seco)\n100 gr. zanahoria sin piel\n200 gr. patata sin piel\n100 gr. cebolla\n3 dientes de ajo\n85 gr. pimiento verde italiano\n25 gr. aceite\n60 gr. tomate natural triturado\n1 cda. sopera de pimentón dulce\n900–1000 gr. caldo de carne (o agua + pastilla)\n90 gr. jamón serrano o chorizo en tacos\n1 hoja de laurel\nSal\nPerejil picado\n\nInstrucciones\n\nEscurrir y lavar las lentejas en el cestillo. Reservar.\n\nPicar la zanahoria y la patata en trozos grandes: 4 seg. / vel. 4. Reservar.\n\nSin lavar el vaso, añadir cebolla, ajos y pimiento: 4 seg. / vel. 4.\n\nBajar los restos hacia las cuchillas.\n\nAñadir el aceite y el tomate, y sofreír: 10 min. / varoma / vel. 1.\n\nAgregar el pimentón: 4 seg. / vel. 4.\n\nIncorporar:\n\nlentejas escurridas\nzanahoria y patata\ncaldo (o agua + pastilla)\njamón o chorizo\nlaurel\nperejil\nsal\n\nCocinar 30 min. / 100º / giro izquierda / vel. cuchara\n\nTips/Notas\n\nEl tiempo de cocción dependerá de la dureza del agua.\nSi quedan duras, añadir 3–5 minutos más.\nSi se prefieren menos espesas, añadir agua al final y dar un hervor.",
 		"tags": [ "note"]
@@ -49,7 +49,7 @@
 
 {
 		"title": "Pote gallego",
-		"date":"Sat Mar 28 2026 13:26:29 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sat Mar 28 2026 13:31:16 GMT+0000 (Coordinated Universal Time)",
 		"url":"/referencias/pote-gallego/",
 		"content": "Ingredientes\n\n2 puñados de judías blancas\n250 gr de morcillo\n2 huesos de ternera\n1 hueso de jamón\n1 punta de jamón\n2 patatas\ngrelos\nunto\n\nInstrucciones\n\nPoner las judías blancas en remojo la noche anterior\nPoner a hervir a 1h y algo:\n\njudías\nmorcillo\nhuesos de ternera\nhueso de jamón\npunta de jamón\ny se va sacando la espuma\n\nCuando las judías estén bien hechas se retira la carne y los huesos\nSe añade:\n\npatata cortada en cubitos\ngrelos limpios y cortados en trozos pequños\n\nLos grelos se dejan 15 min\nse machaca aproximadamente una nuez del unto en un mortero con sal gorda\nSe echa el unto 10 min\n\nTips\n\nSe hace todo con fuego normal, si acaso hasta que rompa a hervir en el paso 2 se puede poner fuerte\nSe tapa pero que respire",
 		"tags": [ "note"]
@@ -57,7 +57,7 @@
 
 {
 		"title": "Salsa romescu",
-		"date":"Sat Mar 28 2026 13:26:29 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sat Mar 28 2026 13:31:16 GMT+0000 (Coordinated Universal Time)",
 		"url":"/referencias/salsa-romescu/",
 		"content": "Ingredientes\n\n7-8 tomates\n1 cabeza de ajos\n2 ñoras\n100-150 gr almendras tostadas\n100-150 gr avellanas tostadas\naceite\nvinagre\npan duro\n\nInstrucciones\n\nEscalivar (poner encima de la parrilla hasta que se torren por fuera):\n\nlos tomates\nlos ajos (reservar dos)\n\nSe pelan:\n\nlos tomates\nlos ajos\n\nFreír las ñoras\nPicar almendras y avellanas y dos ajos crudos\nSe introduce todo en una batidora y se añade:\n\naceite\nun puntito de vinagre\nun poco de pan duro\n\nTips",
 		"tags": [ "note"]
@@ -65,7 +65,7 @@
 
 {
 		"title": "Referencias",
-		"date":"Sat Mar 28 2026 13:26:29 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sat Mar 28 2026 13:31:16 GMT+0000 (Coordinated Universal Time)",
 		"url":"/referencias/index/",
 		"content": "Notas publicadas ayer\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/referencias/albondigon-frio/\">Albondigón Frío</a>",
 		"tags": [ "note"]

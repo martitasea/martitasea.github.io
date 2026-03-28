@@ -11,8 +11,16 @@
 [[Referencias/Pote gallego\|Pote gallego]]
 [[Referencias/Salsa romescu\|Salsa romescu]]
 
-![0006.webp](/img/user/z_Adjuntos/0006.webp)
 
+- [[Referencias/Albondigón Frío\|Albondigón Frío]]
+- [[Referencias/Brownie\|Brownie]]
+- [[Referencias/Caldo de verduras\|Caldo de verduras]]
+- [[Referencias/Gazpacho\|Gazpacho]]
+- [[Referencias/Lentejas estofadas\|Lentejas estofadas]]
+- [[Referencias/Pote gallego\|Pote gallego]]
+- [[Referencias/Salsa romescu\|Salsa romescu]]
+
+{ .block-language-dataview}
 
 
 ```base

@@ -5,4 +5,4 @@
 ---
 # Notas publicadas ayer
 
-- [[Referencias/Albondigón Frío de hoy\|Albondigón Frío de hoy]]
+- [[Referencias/Albondigón Frío\|Albondigón Frío]]

@@ -11,6 +11,9 @@
 [[Referencias/Pote gallego\|Pote gallego]]
 [[Referencias/Salsa romescu\|Salsa romescu]]
 
+![0006.webp](/img/user/z_Adjuntos/0006.webp)
+
+
 
 ```base
 filters:

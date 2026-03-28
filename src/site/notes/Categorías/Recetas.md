@@ -12,8 +12,9 @@ views:
   - type: table
     name: Recetas
     filters:
-      and:
+      or:
         - categorias.contains("Recetas")
+        - categorias.contains(link("Categorías/Recetas"))
     order:
       - dg-publish
       - file.name
@@ -31,3 +32,9 @@ views:
 
 
 [[Referencias/Albondigón Frío\|Albondigón Frío]]
+[[Referencias/Brownie\|Brownie]]
+[[Referencias/Caldo de verduras\|Caldo de verduras]]
+[[Referencias/Gazpacho\|Gazpacho]]
+[[Referencias/Lentejas estofadas\|Lentejas estofadas]]
+[[Referencias/Pote gallego\|Pote gallego]]
+[[Referencias/Salsa romescu\|Salsa romescu]]
